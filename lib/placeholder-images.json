@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "admin-avatar",
+      "description": "Avatar for the admin user",
+      "imageUrl": "https://picsum.photos/seed/admin/100/100",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "teacher-avatar",
+      "description": "Avatar for the teacher user",
+      "imageUrl": "https://picsum.photos/seed/teacher/100/100",
+      "imageHint": "teacher professional"
+    },
+    {
+      "id": "student-avatar",
+      "description": "Avatar for the student user",
+      "imageUrl": "https://picsum.photos/seed/student/100/100",
+      "imageHint": "student happy"
+    }
+  ]
+}
